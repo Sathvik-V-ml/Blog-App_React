@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/static/js/main.1f407894.js",
+    "static/js/453.bdfee9d6.chunk.js": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/static/js/453.bdfee9d6.chunk.js",
+    "index.html": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/index.html",
+    "main.e6c13ad2.css.map": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/static/css/main.e6c13ad2.css.map",
+    "main.1f407894.js.map": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/static/js/main.1f407894.js.map",
+    "453.bdfee9d6.chunk.js.map": "/Sathvik-V-ml/Reactjs-Training/blob/main/blog-app/static/js/453.bdfee9d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1f407894.js"
+  ]
+}
